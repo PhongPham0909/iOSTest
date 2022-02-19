@@ -19,7 +19,7 @@ jobs:
           csproj_path: TestGitAction/TestGitAction/TestGitAction.csproj
           mobileprovision: ${{ secrets.MOBILEPROVISION }}
           cert_p12: ${{ secrets.CERT_P12 }}
-          p12_pass: ${{ secrets.P12_PASS }}
+          p12_pass: ${{ secrets.P12_PASSaaaa }}
           configuration: "Release"
           mono_version: "preview"
           xamarin_ios_version: "preview"
