@@ -18,7 +18,7 @@ jobs:
         with:
           csproj_path: TestGitAction/TestGitAction/TestGitAction.csproj
           mobileprovision: ${{ secrets.MOBILEPROVISION }}
-          cert_p12: ${{ secrets.CERT_P12aaa }}
+          cert_p12: ${{ secrets.CERT_P12 }}
           p12_pass: ${{ secrets.P12_PASS }}
           configuration: "Release"
           mono_version: "preview"
