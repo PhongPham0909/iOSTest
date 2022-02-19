@@ -9,3 +9,21 @@ on:
   workflow_dispatch:
 
 jobs:
+  iOS:
+    name: iOS
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: bradyjoslin/xamarinios-signedbuild-action@v1
+        with:
+          csproj_path: TestGitAction/TestGitAction/TestGitAction.csproj
+          mobileprovision: ${{ secrets.MOBILEPROVISION }}
+          cert_p12: ${{ secrets.CERT_P12 }}
+          p12_pass: ${{ secrets.P12_PASS }}
+          configuration: "Release"
+          mono_version: "preview"
+          xamarin_ios_version: "preview"
+      - uses: actions/upload-artifact@v2
+        with:
+          name: ipa
+          path: TestGitAction/TestGitAction/bin/iPhone/Release/TestGitAction.ipa
