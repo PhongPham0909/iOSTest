@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C1D23AA5-9BFD-4E85-B6D3-0E373A99F530}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestGitAction PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.b59681d11a9be856e181f0ca8f6544b3b2e882e8" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestGitAction/Info.plist">
+    <Files>
+      <File FileName="../../../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.Shared.targets" Line="779" Column="3" />
+      <File FileName="TestGitAction/FirstViewController.cs" />
+      <File FileName="TestGitAction/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestGitAction" expanded="True">
+            <Node name="TestGitAction" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

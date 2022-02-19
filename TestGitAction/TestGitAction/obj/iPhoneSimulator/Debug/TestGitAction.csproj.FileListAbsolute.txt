@@ -1,0 +1,16 @@
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/bin/iPhoneSimulator/Debug/TestGitAction.exe
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/bin/iPhoneSimulator/Debug/TestGitAction.pdb
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.5/actool/_PartialAppManifest.items
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.5/actool/_BundleResourceWithLogicalName.items
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.5/ibtool/_BundleResourceWithLogicalName.items
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.5/coremlc/_PartialAppManifest.items
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.5/coremlc/_BundleResourceWithLogicalName.items
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.5/optimized/Entitlements.plist
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.5/optimized/
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhoneSimulator/Debug/TestGitAction.csproj.AssemblyReference.cache
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhoneSimulator/Debug/TestGitAction.csproj.CoreCompileInputs.cache
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhoneSimulator/Debug/TestGitAction.csproj.CopyComplete
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhoneSimulator/Debug/TestGitAction.exe
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhoneSimulator/Debug/TestGitAction.pdb

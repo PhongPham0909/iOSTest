@@ -1,0 +1,15 @@
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/bin/iPhone/Debug/TestGitAction.exe
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/bin/iPhone/Debug/TestGitAction.pdb
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/bin/iPhone/Debug/Xamarin.Essentials.dll
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/bin/iPhone/Debug/Xamarin.Essentials.pdb
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhone/Debug/device-builds/iphone8.1-14.8.1/actool/_PartialAppManifest.items
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhone/Debug/device-builds/iphone8.1-14.8.1/actool/_BundleResourceWithLogicalName.items
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhone/Debug/device-builds/iphone8.1-14.8.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhone/Debug/device-builds/iphone8.1-14.8.1/coremlc/_PartialAppManifest.items
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhone/Debug/device-builds/iphone8.1-14.8.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhone/Debug/device-builds/iphone8.1-14.8.1/optimized/Entitlements.plist
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhone/Debug/device-builds/iphone8.1-14.8.1/optimized/
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhone/Debug/TestGitAction.csproj.CoreCompileInputs.cache
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhone/Debug/TestGitAction.csproj.CopyComplete
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhone/Debug/TestGitAction.exe
+/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhone/Debug/TestGitAction.pdb

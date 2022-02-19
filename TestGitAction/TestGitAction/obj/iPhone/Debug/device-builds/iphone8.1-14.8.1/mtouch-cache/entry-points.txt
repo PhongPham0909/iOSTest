@@ -1,0 +1,15 @@
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhone/Debug/device-builds/iphone8.1-14.8.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhone/Debug/device-builds/iphone8.1-14.8.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhone/Debug/device-builds/iphone8.1-14.8.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhone/Debug/device-builds/iphone8.1-14.8.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_log
+	/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhone/Debug/device-builds/iphone8.1-14.8.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhone/Debug/device-builds/iphone8.1-14.8.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/patientpopfpt/Documents/Github Action/iOSTest/TestGitAction/TestGitAction/obj/iPhone/Debug/device-builds/iphone8.1-14.8.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=mono_pmip
