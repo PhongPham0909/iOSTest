@@ -43853,7 +43853,7 @@ _mono_aot_file_info:
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
-	.byte 106,218,124,24,216,62,34,192,148,161,241,203,141,252,86,85
+	.byte 83,111,143,4,44,216,210,95,97,8,198,43,43,139,204,10
 	.globl _mono_aot_module_Xamarin_iOS_info
 	.align 3
 _mono_aot_module_Xamarin_iOS_info:
